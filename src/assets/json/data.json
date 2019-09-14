@@ -1,0 +1,325 @@
+
+{
+
+  "video": [
+    {
+      "_id": 1,
+      "title": "Pourquoi j’éternue au soleil ?",
+      "link": "https://www.youtube.com/embed/VuuHObELnsE",
+      "demande": "A chaque fois que vous passez de l’ombre au grand soleil, vous ne pouvez pas vous empêcher d’éternuer ? Doctissimo vous explique pourquoi !",
+      "preprod": ["Brainstorming de sujets en équipe", "Relecture du script et modifications si nécessaire", "Storyboard"],
+      "tournage": ["Direction artistique des voix off", "Enregistrement voix off"],
+      "postprod": ["Recherche des sources images et audios", "Retouche sources images afin d’adapter au scripts", "Création de l’avatar", "Animation sur After Effect", "Retouches et coordination avec l’animation des voix off", "Sous titrage pour réseaux sociaux"],
+      "description": "Vidéo motion design s'incluant dans une série mensuelle ayant pour objectif l’explication ludique de réactions communes mais étonnantes du corps. Elle est destinée au site internet et aux réseaux sociaux (Facebook et YouTube).",
+      "annee": "2018/05",
+      "date": "Mai 2018",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/1.png"
+    },
+    {
+      "_id": 2,
+      "title": "Pourquoi bâiller est-il contagieux ?",
+      "link":"https://www.youtube.com/embed/QNEaZxW0fug",
+      "demande": "Vous avez sûrement remarqué que quand quelqu’un baille, ça vous donne envie de bailler ! Doctissimo vous explique pourquoi.",
+      "preprod": ["Brainstorming de sujets en équipe", "Relecture du script et modifications si nécessaire", "Storyboard"],
+      "tournage": ["Direction artistique des voix off", "Enregistrement voix off"],
+      "postprod": ["Recherche des sources images et audios", "Retouche sources images afin d’adapter au scripts", "Création identité visuelle","Création de l’avatar","Animation sur After Effect", "Retouches et coordination avec l’animation des voix off", "Sous titrage pour réseaux sociaux"],
+      "description": "Vidéo motion design s'incluant dans une série mensuelle ayant pour objectif l’explication ludique de réactions communes mais étonnantes du corps. Elle est destinée au site internet et aux réseaux sociaux (facebook et YouTube).",
+      "annee": "2018/06",
+      "date": "Juin 2018",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/2.png"
+    },
+    {
+      "_id": 3,
+      "title": "Herbes aromatiques",
+      "link": "https://www.youtube.com/embed/62EfW2eNqHk",
+      "demande": "Zoom sur la ciboulette : Doctissimo vous explique comment l’utiliser en cuisine et comment le conserver en quelques secondes !",
+      "preprod": ["Brainstorming de sujets en équipe", "Relecture du script et modifications si nécessaire"],
+      "tournage": ["Recherche des sources images et audios", "Relecture du script et modifications si nécessaire"],
+      "postprod": ["Recherche des sources images et audios", "Création d’une identité visuelle", "Retouche des sources images afin d’adapter au scripts","Animation sur After Effect"],
+      "description": "Vidéo motion design s’incluant dans une série ayant pour objectif de résumer les utilisations des herbes aromatiques en quelques secondes. Elle est destinée en priorité aux réseaux sociaux mais aussi à leur site internet.",
+      "annee": "2018/07",
+      "date": "Juillet 2018",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/3.png"
+    },
+    {
+      "_id": 4,
+      "title": "Nettoyer ma maison au naturel : le salon",
+      "link": "https://www.youtube.com/embed/32sUTtW4MQM",
+      "demande": "Comment nettoyer son salon avec des produits naturels ? Voici toutes les astuces de Doctissimo.",
+      "preprod": ["Brainstorming de sujets en équipe", "Recherche des solutions et de leur crédibilité", "Ecriture du script"],
+      "postprod": ["Recherche des sources images et audios", "Création d’une identité visuelle", "Retouche des sources images afin d’adapter au scripts", "Animation sur After Effect"],
+      "description": "Vidéo motion design s’incluant dans une série ayant pour objectif de proposer des solutions naturelles pour nettoyer sa maison. Elle est destinée au site et aux réseaux sociaux.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/4.png"
+    },
+    {
+      "_id": 5,
+      "title": "La mémorisation",
+      "link": "https://www.youtube.com/embed/OBG8n-0aAwU",
+      "demande": "Comment apprenons-nous ? Qu'est-ce que notre cerveau retient exactement ?",
+      "preprod": ["Ecriture du script et vérification des informations"],
+      "postprod": ["Recherche des sources images et audios", "Création d’une identité visuelle", "Animation sur After Effect"],
+      "description": "Vidéo motion design infographique, “one shot”, qui a pour objectif d’expliquer simplement comment le cerveau mémorise les informations. Elle est destinée au site et aux réseaux sociaux.",
+      "annee": "2018/09",
+      "date": "Septembre 2018",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/5.png"
+    },
+    {
+      "_id": 6,
+      "title": "Le don du sang",
+      "link": "https://www.youtube.com/embed/dU69t9cqDZs",
+      "demande": "Vous vous posez des questions sur le dons du sang ? Des statistiques à l’explication des étapes du jour du don en passant par les contre-indications, Doctissimo répond à toutes vos questions.",
+      "preprod": ["Ecriture du script basé sur les informations envoyés par l’Etat français"],
+      "postprod": ["Recherche et retouche des sources images et audios", "Création d’une identité visuelle", "Animation sur After Effect"],
+      "description": "Vidéo motion design “one shot” traitant le don du sang et répondant à toutes les questions les plus posés sur ce sujet. Elle permet de rassurer et sensibiliser sur le don du sang lors de la journée mondiale du don du sang, principalement dédié aux réseaux sociaux mais aussi au site internet de Doctissimo.",
+      "annee": "2017/06",
+      "date": "Juin 2017",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/7.png"
+    },
+    {
+      "_id": 7,
+      "title": "Un bébé énergique",
+      "link": "https://www.youtube.com/embed/9kD2PzCVsxE",
+      "demande": "Pulse vous apprend comment nourrir votre enfant pour créer plus d'énergie dans sa crèche d’entreprise.",
+      "preprod": ["Participation à la campagne de communication", "Brainstorming idées", "Ecriture du script", "Storyboard"],
+      "postprod": ["Recherche et retouche des sources images et audios", "Création d’une identité visuelle", "Animation sur After Effect"],
+      "description": "Vidéo motion design (snacking content) s’incluant dans un projet de communication, mis en place par Fuse, dédié aux réseaux sociaux en fin de projet. Cette campagne de communication avait pour objectif de sensibiliser les internautes à propos de l’écologie, sans culpabiliser. Ainsi, Fuse a créé une fausse entreprise, Pulse, qui proposait de poser des dalles créant de l'énergie lorsque l’on marche dessus dans des crèches d’entreprises.Afin de choquer, il a fallu pousser le vice en faisant croire que l’entreprise Pulse encouragerait les parents à “doper” leurs enfants afin de créer plus d’énergie. Ici la vidéo est basé sur le design de certains jeux vidéos.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Fuse - Pulse",
+      "miniature": "http://louison-hipeau.fr/img/8.png"
+    },
+    {
+      "_id": 8,
+      "title": "Consommation d'énergétique",
+      "link": "https://www.youtube.com/embed/WyEwJ3clE4I",
+      "demande": "Découvrez comment réduire votre consommation énergétique au quotidien simplement grâce à Pulse.",
+      "preprod": ["Participation à la campagne de communication", "Brainstorming idées", "Ecriture du script et recherches de données sérieuses"],
+      "postprod": ["Création d’une identité visuelle", "Animation sur After Effect"],
+      "description": "Vidéo motion design “one shot” s’incluant dans un projet de communication, mis en place par Fuse, dédié aux réseaux sociaux en début de projet.  Publiée au début de la campagne, elle a permis d’attirer les internautes sur les sujets de l'énergie dépensée de façon légère.  Cette campagne de communication avait pour objectif de sensibiliser les internautes à propos de l’écologie, sans culpabiliser. Ainsi, Fuse a créé une fausse entreprise, Pulse, qui proposait de poser des dalles créant de l'énergie lorsque l’on marche dessus dans des crèches d’entreprises. Afin de choquer, il a fallu pousser le vice en faisant croire que l’entreprise Pulse encouragerait les parents à “doper” leurs enfants afin de créer plus d'énergie.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Fuse - Pulse",
+      "miniature": "http://louison-hipeau.fr/img/9.png"
+    },
+    {
+      "_id": 9,
+      "title": "Fuse au crayon",
+      "link": "https://www.youtube.com/embed/JCc4DUP0lZg",
+      "demande": "Proposition d’animation de logo de Fuse.",
+      "postprod": ["Animation sur After Effect"],
+      "description": "Animation/apparition du logo de l’entreprise Fuse, créé par des graphistes.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Fuse",
+      "miniature": "http://louison-hipeau.fr/img/10.PNG"
+    },
+ {
+      "_id": 10,
+      "title": "Fuse en peinture",
+      "link": "https://www.youtube.com/embed/2MP-1A20OTc",
+      "demande": "Proposition d’animation de logo de Fuse.",
+      "postprod": ["Animation sur After Effect"],
+      "description": "Animation/apparition du logo de l’entreprise Fuse, créé par des graphistes.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Fuse",
+      "miniature": "http://louison-hipeau.fr/img/11.PNG"
+
+    },
+ {
+      "_id": 11,
+      "title": "Pulse électique",
+      "link": "https://www.youtube.com/embed/UZ-6kOUvgkY",
+      "demande": "Animation de logo de Pulse.",
+      "postprod": ["Animation sur After Effect"],
+      "description": "Animation du logo de la fausse entreprise Pulse, créé par des graphistes, créé par Fuse pour une campagne de communication.  Cette campagne de communication avait pour objectif de sensibiliser les internautes à propos de l’écologie, sans culpabiliser. Ainsi, Fuse a créé une fausse entreprise, Pulse, qui proposait de poser des dalles créant de l'énergie lorsque l’on marche dessus dans des crèches d’entreprises.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Pulse",
+      "miniature": "http://louison-hipeau.fr/img/12.PNG"
+    },
+{
+      "_id": 12,
+      "title": "Calendrier de l’avent ",
+      "link": "https://www.youtube.com/embed/pS2pD39Dg9g",
+      "demande": "Découvrez le cadeau du jour (1er décembre) dans le calendrier de l'avent de Doctissimo !",
+      "postprod": ["Recherche et retouche des sources images et audios", "Création d’une identité visuelle se déclinant sur 4 models", "Organisation des identités visuelles", "Animation sur After Effect"],
+      "description": "Vidéo pilote en motion design d’une série de vidéo mise en place pour un jeu concours. Elle aura pour objectif de présenter le(s) cadeau(x) du jour, tous les jours avant noël afin d’augmenter l’engagement sur les réseaux sociaux.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/14.png"
+    },
+{
+      "_id": 13,
+      "title": "Étirements au bureau",
+      "link": "https://www.youtube.com/embed/mqNcEh6S2x0",
+      "demande": "Faites une petite pause pour vous détendre au bureau. Voici une série d’étirements très faciles, qui va vous permettre de dénouer les tensions et d’éviter le mal de dos.",
+      "preprod": ["Recherche des idées et des postures", "Ecriture script", "Storyboard", "Recherche et mise en place du lieu de tournage"],
+      "tournage": ["Direction de l'actrice", "Cadrage", "Lumières"],
+      "postprod": ["Montage vidéo Premiere Pro", "Habillage After Effect", "Etalonnage", "Recherche musique"],
+      "description": "Pilote d’une série de vidéo ayant pour objectif de se sentir mieux dans son corps au travail.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/15.png"
+    },
+{
+      "_id": 14,
+      "title": "Réussir ses photos de noël",
+      "link": "https://www.youtube.com/embed/74M1kyUMqmY",
+      "demande": "Comment faire de belles photos de Noël ? Comment flouter l’arrière-plan d’une photo ? Les astuces de David Elisabeth, photographe.",
+      "tournage": ["Aide de la réalisatrice", "Aide à la direction des acteurs", "Cadrage", "Lumières", "Mise en place du lieu de tournage"],
+      "postprod": ["Montage vidéo", "Habillage (titres et animations)", "Etalonnage", "Recherche musique","Sous titrage pour les réseaux sociaux"],
+      "description": "Vidéo “one shot” explicative, permettant d’apprendre avec un photographe a prendre des photos avec son mobile, sous le prétexte de noël.",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/16.png"
+    },
+{
+      "_id": 15,
+      "title": "Virgin Sangria",
+      "link": "https://www.youtube.com/embed/OJ6aR7MZkiM",
+      "demande": "Envie d'une recette fraîche pour célébrer l'été ? Doctissimo vous propose cette Virgin Sangria pour toute la famille.",
+     "preprod": ["Recherche recettes", "Cadrage", "Lumières", "Mise en place du lieu de tournage"],
+      "tournage": ["Aide de la réalisatrice", "Aide à la direction des acteurs", "Cadrage", "Lumières", "Mise en place du lieu de tournage"],
+      "postprod": ["Montage vidéo", "Habillage (titres et animations)", "Etalonnage", "Recherche musique","Sous titrage pour les réseaux sociaux"],
+      "description": "Pilote d'une série de vidéos dédié aux cockail sans alcools, ciblant principalement les femmes enceintes et les amateurs de cocktails sans alcool pour un été plus sain.",
+      "annee": "2018/07",
+      "date": "Juillet 2018",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/17.png"
+    },
+{
+      "_id": 16,
+      "title": "Se détendre au bureau",
+      "link": "https://www.youtube.com/embed/PghFbRn7hK8",
+      "demande": " Au travail : voici comment chasser le stress. Et surtout : détendez-vous !",
+      "preprod": ["Recherche des idées et des exercices", "Ecriture script", "Storyboard", "Recherche et mise en place du lieu de tournage"],
+      "tournage": ["Direction de l’actrice", "Cadrage", "Lumières"],
+      "postprod": ["Montage vidéo", "Habillage sur After Effect", "Etalonnage", "Recherche musique"],
+      "description": "Vidéo faisant partie d’une série ayant pour objectif de se sentir mieux dans son corps au travail.",
+      "annee": "2018/02",
+      "date": "Février 2018",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/18.png"
+    },
+
+{
+      "_id": 17,
+      "title": "DIY Halloween - 3 idées décos",
+      "link": "https://www.youtube.com/embed/oNfT_bGEM0A",
+      "demande": "Trois idées pour décorer votre table ou votre maison, le soir d’Halloween, avec simplement des bocaux et un peu de peinture.",
+      "preprod": ["Recherche des idées et des exercices", "Ecriture script", "Storyboard", "Recherche et mise en place du lieu de tournage", "Achat matériel"],
+      "tournage": ["Cadrage", "Lumières", "Mise en place des éléments stop motion"],
+      "postprod": ["Montage vidéo", "Habillage (titres et animations)", "Etalonnage", "Recherche musique"],
+      "description": "Vidéo DIY pour décoration pour Halloween en stop motion, avec des animations afin de préciser certaines étapes.",
+      "annee": "2017/02",
+      "date": "Février 2017",
+      "entreprise": "Doctissimo",
+      "miniature": "http://louison-hipeau.fr/img/19.png"
+    },
+{
+      "_id": 18,
+      "title": "Un rendez vous énergétique",
+      "link": "https://www.youtube.com/embed/x8Fnb8JA8_g",
+      "demande": "Le Papa d'Henry a du soucis à se faire ! Et vous, quelle est votre solution pour mieux le rentabiliser ?",
+      "preprod": ["Pitchs", "Scénario", "Découpage technique", "Storyboard", "Recherche,casting et choix acteurs","Recherche lieu", "Plan de travail"],
+      "tournage": ["Direction des acteurs","Direction de l’équipe de tournage", "Cadrage", "Décoration"],
+      "postprod": ["Montage vidéo","Etalonnage", "Animation du panneau de fin", "Recherche musique","Sous titrage pour réseaux sociaux"],
+      "description": "Vidéo publicitaire s’incluant dans un projet de communication, mis en place par Fuse, dédié aux réseaux sociaux.  Publiée à la fin de la campagne sur les réseaux sociaux, elle a eu pour objectif de choquer et faire réagir la communauté de Pulse.  Cette campagne de communication avait pour objectif de sensibiliser les internautes à propos de l’écologie, sans culpabiliser. Ainsi, Fuse a créé une fausse entreprise, Pulse, qui proposait de poser des dalles créant de l'énergie lorsque l’on marche dessus dans des crèches d’entreprises.  Afin de choquer, il a fallu pousser le vice en faisant croire que l’entreprise Pulse encouragerait les parents à “doper”  leurs enfants afin de créer plus d'énergie et que leur progéniture devienne “rentable”. ",
+      "annee": "2017/12",
+      "date": "Décembre 2017",
+      "entreprise": "Fuse - Pulse",
+      "miniature": "http://louison-hipeau.fr/img/20.png"
+    },
+{
+      "_id": 19,
+      "title": "La promesse de Meloven",
+      "link": "https://www.youtube.com/embed/Ntj0C-etats",
+      "demande": "Découvrez le monde de Meloven et sa promesse en quelques secondes.",
+      "preprod": ["Participation campagne de communication", "Script", "Recherche de images vidéos adéquates"],
+      "postprod": ["Montage vidéo", "Habillage adapté à la charte graphique", "Etalonnage", "Recherche musique"],
+      "description": "MoodBoard vidéo expliquant l’activité de l’entreprise Meloven, son univers et son objectif si leur activité fonctionne.",
+      "annee": "2018/06",
+      "date": "Juin 2018",
+      "entreprise": "Creatine Lab - Meloven",
+      "miniature": "http://louison-hipeau.fr/img/21.png"
+    },
+
+{
+      "_id": 20,
+      "title": "Le guitariste hypnotisant",
+      "link": "https://www.youtube.com/embed/4MJU4BvZSjQ",
+      "demande": "Dans la rue se cachent les talents de demain. Le musiciens de Meloven sont hypnotisants",
+      "preprod": ["Pitchs", "Scénario", "Découpage technique", "Storyboard", "Recherche,casting et choix acteurs","Recherche lieu", "Plan de travail", "Note d’intention"],
+      "tournage": ["Direction des acteurs","Direction de l’équipe de tournage", "Cadrage", "Costumière"],
+      "postprod": ["Montage vidéo","Etalonnage", "VFx", "Recherche et montage musique", "packshot"],
+      "description": "Vidéo publicitaire s’incluant dans un projet de communication de Meloven, mis en place par CreatineLab, dédié aux réseaux sociaux en fin de projet. ",
+      "annee": "2018/07",
+      "date": "Juillet 2018",
+      "entreprise": "Creatine Lab - Meloven",
+      "miniature": "http://louison-hipeau.fr/img/22.png"
+    },
+{
+      "_id": 21,
+      "title": "Comment s’engager ?",
+      "link": "https://www.youtube.com/embed/tSR_r4w4aSk",
+      "demande": "Appeler les jeunes à s'engager, c'est bien. Montrer l'exemple, c'est mieux. Et si vous rejoigniez Cité des Chances ? ",
+      "preprod": ["Amélioration script", "organisation tournage"],
+      "tournage": ["Direction des acteurs", "Cadrage", "Prise du son", "Lumières"],
+      "postprod": ["Montage vidéo","Etalonnage", "Habillage et animations", "Sous titrage pour réseaux sociaux"],
+      "description": "Vidéo One Shot, appelant à l’engagement bénévoles pour l’association Cité des Chances. ",
+      "annee": "2019/03",
+      "date": "Mars 2019",
+      "entreprise": "Cité des chances",
+      "miniature": "http://louison-hipeau.fr/img/23.png"
+    },
+{
+      "_id": 22,
+      "title": "F1 Honda Racing",
+      "link": "https://www.youtube.com/embed/QAAKzDerA4A",
+      "demande": "Seiko vous présente sa nouvelle montre en partenariat avec Honda ; la F1 Honda Racing.",
+      "preprod": ["Bible de création", "Storyboard", "Animatic"],
+      "postprod": ["Recherche des sources 3D", "Animation 3D sur Element 3D", "Création charte graphique correspondant à Seiko"],
+      "description": "Vidéo full 3D, simulant une publicité pour la sortie de la montre F1 Honda Racing, tout en suivant un brief précis.",
+      "annee": "2018/04",
+      "date": "Avril 2018",
+      "entreprise": "Seiko - Honda",
+      "miniature": "http://louison-hipeau.fr/img/24.png"
+    },
+{
+      "_id": 23,
+      "title": "Engagez vous en politique !",
+      "link": "https://www.youtube.com/embed/821r2Y2ll1E",
+      "demande": "Cité des chances vous explique toutes ses actions !",
+      "preprod": ["Amélioration script", "organisation tournage"],
+      "tournage": ["Direction des acteurs", "Cadrage", "Prise du son", "Lumières"],
+      "postprod": ["Montage vidéo","Etalonnage", "Habillage et animations", "Sous titrage pour réseaux sociaux"],
+      "description": "Vidéo One Shot, appelant à l’engagement bénévoles pour l’association Cité des Chances  et mettant en avant ses actions.",
+      "annee": "2019/03",
+      "date": "Mars 2019",
+      "entreprise": "Cité des chances",
+      "miniature": "http://louison-hipeau.fr/img/25.png"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
