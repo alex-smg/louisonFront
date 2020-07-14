@@ -15,7 +15,7 @@
                 <h2>Par mail</h2>
                 <div>
                     <label>
-                        <input type="text" placeholder="Nom*" v-model="name">
+                        <input type="text" placeholder="Nom*" v-model="name" required>
                     </label>
                     <label>
                         <input type="text" placeholder="Nom de la société" v-model="nom_soc">
@@ -23,14 +23,14 @@
                 </div>
                 <div>
                     <label>
-                        <input type="text" placeholder="Adresse email*" v-model="email">
+                        <input type="email" placeholder="Adresse email*" v-model="email" required>
                     </label>
                     <label>
-                        <input type="text" placeholder="Objet du mail*" v-model="objet">
+                        <input type="text" placeholder="Objet du mail*" v-model="obj" required>
                     </label>
                 </div>
                 <label>
-                    <textarea type="text" placeholder="Message*" v-model="message"></textarea>
+                    <textarea type="text" placeholder="Message*" v-model="message" required></textarea>
                 </label>
                 <button class="cta send-mail" type="submit" placeholder="envoie" v-on:click.prevent="envoie">Envoyer</button>
             </form>
@@ -39,8 +39,10 @@
 </template>
 
 <script>
-    import axios from 'axios'
+    import axios from 'axios';
+    import Swal from 'sweetalert2';
     export default{
+
         data(){
             return{
                 name : '',
@@ -51,22 +53,41 @@
             }
         },
         methods: {
-            envoie: function(){
-                axios.post('http://louison-hipeau.fr/index.php',
-                    {
-                        name: this.name,
-                        nom_soc: this.name,
-                        obj : this.obj,
-                        email : this.email,
-                        message : this.message
-                    }
-                )
-                    .then(function (response) {
-                        // eslint-disable-next-line no-console
-                        console.log(response);
+            envoie: function () {
+
+                if (this.name && this.obj && this.email && this.message) {
+                    axios.post('http://louison-hipeau.fr/index.php',
+                        {
+                            name: this.name,
+                            nom_soc: this.nom_soc,
+                            obj: this.obj,
+                            email: this.email,
+                            message: this.message
+                        }
+                    )
+                        .then(function (response) {
+                            // eslint-disable-next-line no-console
+                            console.log(response);
+                            if (response.status === 200) {
+                                const Swal = require('sweetalert2')
+                                Swal.fire({
+                                    title: 'Votre mail a bien été envoyé',
+                                    text: 'Merci',
+                                    type: 'success',
+                                    confirmButtonText: 'Retour'
+                                })
+                            }
+                        })
+                } else {
+                    Swal.fire({
+                        title: 'Vous devez remplir l\'ensemble des champs requis',
+                        type: 'error',
+                        confirmButtonText: 'Retour'
                     })
+                }
+
             }
-            }
+        }
     }
 </script>
 <style>
@@ -74,12 +95,13 @@
         overflow-x: hidden;
     }
     #contact{
-        min-height: 80vh;
+        min-height: 70vh;
     }
     #contact h3 {
         width: 90%;
         display: block;
         margin: 5vh auto 0 auto;
+        color: #3f3f3f;
     }
     .container-form-contact{
         display: flex;
@@ -127,6 +149,9 @@
     #contact .container-gif{
         width: 50%;
     }
+    #contact .container-gif img{
+        width: 250%;
+    }
     .cta{
         padding: 0.75vw 2vw 0.75vw 2vw;
         color: #a30841;
@@ -147,6 +172,59 @@
     .send-mail{
         right: 0;
         position: absolute;
+    }
+    @media screen and (min-width: 768px) and (max-width : 1024px){
+        #contact{
+            min-height: 80vh;
+        }
+        .container-form-contact{
+            display: block;
+        }
+        #contact form{
+            width: 100%;
+        }
+        .cta{
+            font-size: 2.5vw;
+        }
+    }
+
+    @media screen and (max-width: 767px){
+        html{
+            overflow-x: hidden;
+        }
+        .container-gif{
+            display: none;
+        }
+        #contact form{
+            width: 100%;
+        }
+        #contact form div {
+            display: block;
+            margin-bottom: 2vh;
+        }
+        #contact form div label input{
+            margin-bottom: 2vh;
+        }
+        .send-mail, .cta{
+            position: inherit;
+            margin: auto;
+            font-size: 5vw;
+            padding: 1.5vw 6vw 1.5vw 6vw;
+            margin-top: 4vh;
+            text-align: center;
+            width: 65%;
+            outline: none;
+        }
+        .send-mail{
+            width: 45%;
+        }
+        #contact h2{
+            display: none;
+        }
+        #contact h3{
+            line-height: 3.5vh;
+            margin-bottom: 5vh;
+        }
     }
 
 

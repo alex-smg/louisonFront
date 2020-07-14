@@ -45,15 +45,15 @@
 
     methods:{
       filterByDate : function(){
-        var copie = [];
+        let copie = [];
         this.videos.forEach(function(e){
           e.annee = new Date(e.annee) /1000
           copie.push(e)
           copie.sort(function(a, b) {
             return a.annee - b.annee;
           });
-        })
-        this.videos = copie
+        });
+        this.videos = copie;
         console.log(copie)
 
       }
@@ -80,7 +80,7 @@
   #cont-video li{
     width: 28vw;
     overflow: hidden;
-    height: 35vh;
+    height: 15vw;
     margin-bottom: 2vh;
     transition: 0.5s;
     background-color: #3f3f3f;
@@ -182,7 +182,7 @@
   .select{
     background-color: #a30841;
     padding: 0.5vw 2.5vw 0.5vw 2.5vw;
-    border-radius: 2em;
+    border-radius: 1em;
     color: #FFFFFF;
     height: fit-content;
     transition: 0.5s;
@@ -225,6 +225,11 @@
     }
   }
   /* version tablette */
+  @media screen and (min-width: 1024px) and (max-width : 1450px){
+    #cont-video li {
+      height: 25vh
+    }
+  }
   @media screen and (min-width: 768px) and (max-width : 1024px){
     #cont-video{
       width: 90%;

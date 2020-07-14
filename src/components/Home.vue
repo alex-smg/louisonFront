@@ -60,6 +60,7 @@
         <router-link class="cta" to="/work">Voir mes projets</router-link>
       </div>
     </section>
+    <div class="both"></div>
   </div>
 
 </template>
@@ -79,6 +80,9 @@
 </script>
 
 <style>
+  .both{
+    clear: both;
+  }
   video{
     width: 100%;
   }
@@ -346,11 +350,12 @@
       width: 100%;
     }
     .cta{
+      position: inherit;
       margin: auto;
+      font-size: 5vw;
+      padding: 1.5vw 2vw 1.5vw 2vw;
+      margin-top: 4vh ;
       display: block;
-      width: 50%;
-      text-align: center;
-      padding: 2vw 3vw 2vw 3vw;
     }
 
 

@@ -44,7 +44,7 @@
           <span class="line-header"></span>
         </li>
         <li>
-          <router-link to="/work">Contact</router-link>
+          <router-link to="/contact">Contact</router-link>
           <span class="line-header"></span>
         </li>
       </ul>
@@ -117,6 +117,7 @@
       width: 100vw;
       height: 5vh;
       padding: 1vh 0 1vh 0;
+      z-index: 100;
     }
     #nav-mobile div{
       width: 38%;
@@ -134,9 +135,13 @@
     #nav-mobile ul li a{
       line-height: 5vh;
       color: #3F3F3F;
+      font-size: 5vw;
     }
     #nav-mobile div a{
       width: 100%;
+    }
+    footer{
+      z-index: 2;
     }
 
   }
